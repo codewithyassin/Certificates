@@ -15,27 +15,16 @@ AI/ML enthusiast, Python developer, and aspiring full-stack web developer passio
 ## 🛠 Skills
 
 ### Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150%25-green) 
-![SQL](https://img.shields.io/badge/SQL-150%25-blue) 
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-150%25-orange) 
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-150%25-red) 
+Pandas, SQL, Data Visualization, Statistical Analysis
 
 ### Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-150%25-orange) 
-![PyTorch](https://img.shields.io/badge/PyTorch-150%25-red) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-150%25-blue) 
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-150%25-green) 
+TensorFlow, PyTorch, Scikit-learn, Neural Networks
 
 ### Web Development
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-150%25-yellow) 
-![JavaScript](https://img.shields.io/badge/JavaScript-150%25-blue) 
-![Frontend Development](https://img.shields.io/badge/Frontend%20Development-150%25-green) 
-![Backend Integration](https://img.shields.io/badge/Backend%20Integration-150%25-red) 
+HTML/CSS, JavaScript, Frontend Development, Backend Integration
 
 ### Digital & Productivity Tools
-![Notion AI](https://img.shields.io/badge/Notion%20AI-150%25-black) 
-![GitHub](https://img.shields.io/badge/GitHub-150%25-black) 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-150%25-orange) 
+Notion AI, GitHub, Jupyter Notebook
 
 ---
 
@@ -52,18 +41,6 @@ AI/ML enthusiast, Python developer, and aspiring full-stack web developer passio
 - **Code the Future Platform:** Educational platform to promote tech skills for youth  
 - **AI/ML Mini Projects:** Predictive models, data dashboards, neural network experiments  
 - **Web Development Projects:** Responsive websites with frontend and backend integration  
-
----
-
-## 📊 GitHub Stats
-![Yassin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithyassin&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyassin&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithyassin&theme=radical)
-
----
-
-## 📌 Pinned Projects
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=codewithyassin&repo=Portfolio&theme=radical)](https://github.com/codewithyassin/Portfolio)  
 
 ---
 
